@@ -1,0 +1,4 @@
+e_id,t_max,from,to,type,template,param1,param2,fwd_id
+e1,30,C3,C5,NEW,tmpl_5.txt,festival,Stephanie,
+e2,83,C5,C1,FWD,tmpl_6.txt,festival organization,Bethany,e1
+e3,45,C1,C5,REPLY,tmpl_9.txt,festival organization,Stephanie,

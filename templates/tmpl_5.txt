@@ -1,0 +1,3 @@
+#subject: New information about $1 activities
+Good day, $2,
+I am sending the latest information about $1. If you have any questions, please feel free to ask.

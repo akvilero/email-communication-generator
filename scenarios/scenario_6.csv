@@ -1,0 +1,9 @@
+e_id,t_max,from,to,type,template,param1,param2,fwd_id
+e1,20,C9,C6,NEW,tmpl_5.txt,PRJC1,Barry,
+e2,10,C6,C9,REPLY,tmpl_6.txt,PRJC2,Melodie,
+e3,76,C3,C4,NEW,tmpl_1.txt,PRJC3,Felix,
+e4,50,C9,C6,REPLY,tmpl_2.txt,,,
+e5,8,C4,C6,FWD,,,,e3
+e6,45,C6,C3,NEW,tmpl_3.txt,PRJC6,Cameron,
+e7,25,C4,C9,FWD,tmpl_10.txt,PRJC7,Melodie,e3
+e8,19,C3,C6,REPLY,tmpl_4.txt,PRJC8,Barry,

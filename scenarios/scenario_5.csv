@@ -1,0 +1,8 @@
+e_id,t_max,from,to,type,template,param1,param2,fwd_id
+e1,40,C10,C7,NEW,tmpl_10.txt,PRJC1,Timothy,
+e2,30,C5,C10,NEW,tmpl_3.txt,PRJC2,Quinn,
+e3,85,C10,C5,REPLY,tmpl_9.txt,PRJC3,Stephanie,
+e4,60,C1,C4,NEW,tmpl_8.txt,,Felix,
+e5,26,C7,C5,FWD,,,,e3
+e6,60,C4,C10,FWD,tmpl_2.txt,,,e4
+e7,33,C10,C4,REPLY,tmpl_4.txt,PRJC5,Felix,

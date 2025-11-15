@@ -1,0 +1,3 @@
+#subject: Your confirmation is required
+Hello, $2,
+Please confirm your attendance at the meeting regarding $1.
